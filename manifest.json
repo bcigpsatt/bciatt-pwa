@@ -2,21 +2,21 @@
   "name": "BCI Att",
   "short_name": "BCI Att",
   "description": "BCI Attendance — GPS punch in/out for staff",
-  "start_url": "/",
-  "scope": "/",
+  "start_url": "https://script.google.com/macros/s/AKfycbxVhmAW4_wKO9ERoggac08LHUOk8EgbGU22Hrd1QABuUYuGlQjxj4RvlZ8qm5s5YLoWQw/exec",
+  "scope": "https://script.google.com/macros/s/AKfycbxVhmAW4_wKO9ERoggac08LHUOk8EgbGU22Hrd1QABuUYuGlQjxj4RvlZ8qm5s5YLoWQw/",
   "display": "standalone",
   "orientation": "portrait",
   "background_color": "#0d1117",
   "theme_color": "#1f6feb",
   "icons": [
     {
-      "src": "icon-192.png",
+      "src": "https://bcigpsatt.github.io/bciatt-pwa/icon-192.png",
       "sizes": "192x192",
       "type": "image/png",
       "purpose": "any maskable"
     },
     {
-      "src": "icon-512.png",
+      "src": "https://bcigpsatt.github.io/bciatt-pwa/icon-512.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "any maskable"
